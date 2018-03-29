@@ -106,7 +106,7 @@ files: /js/demo.js,/css/demo.css
 
 - 类vue／weex 技术体系，前端技术开发，实际渲染为native，
 - `请打开安卓边界查看快应用`
-<img src="/image/run-time.jpeg" width=200 height="400">
+<img src="/image/run-time.jpeg">
 
 [slide]
 -----
