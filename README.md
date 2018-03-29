@@ -4,3 +4,4 @@
 
 - 产出html,nodeppt generate ./index.md -a
 - 预览nodeppt start -p 8081  => xxx/md/xxx.md?
+- nodeppt generate ./index.md docs -a
