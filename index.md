@@ -191,8 +191,10 @@ files: /js/demo.js,/css/demo.css
 ## 参考
 
 - [开发者文档](https://doc.quickapp.cn/)
+- [快应用知乎讨论](https://www.zhihu.com/question/268663484)
 - [快应用发布会回顾](https://www.quickapp.cn/docCenter/post/86)
 - [借贷宝快应用demo一期](http://git.jdb-dev.com/mars/quickjdb/tree/master)
+- [快应用开发圈资源汇总](https://github.com/quickappdev/awesome-quickapp)
 
 
 [slide]
